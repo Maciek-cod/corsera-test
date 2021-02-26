@@ -42,7 +42,7 @@
       min-height: 198px;
       width: calc(33% - 17px);
     }
-    section.p1 {
+    .p1 {
       width: 100px;
       position: relative;
       top: -1px;
@@ -125,7 +125,7 @@
     section.container3 {
       margin-top: 30px;
     }
-    section.p1 {
+    .p1 {
       width: 100px;
       position: relative;
       top: -1px;
@@ -191,7 +191,7 @@
       border: 1px solid black;
       margin: 0 20px 20px 20px;
     }
-    section.p1 {
+    .p1 {
       width: 25%;
       position: relative;
       top: -1px;
