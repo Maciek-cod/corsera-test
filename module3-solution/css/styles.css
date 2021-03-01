@@ -41,6 +41,9 @@ button.navbar-toggle {
 .row p {
     padding: 100px 0;
 }
+.container h1 {
+    font-family: 'Open Sans', sans-serif;
+}
 
 /* END HEADER */
 
