@@ -27,21 +27,21 @@
     p {
       font-family: Arial, Helvetica, sans-serif;
     }
-    section.container1, section.container2, section.container3 {
+    div.container1, div.container2, div.container3 {
       background-color: lightblue;
       border: 1px solid black;
     }
-    section.container1 {
+    div.container1 {
       margin-right: 30px;
       min-height: 198px;
       width: calc(33% - 17px);
     }
-    section.container2 {
+    div.container2 {
       margin-right: 30px;
       min-height: 198px;
       width: calc(33% - 17px);
     }
-    section.container3 {
+    div.container3 {
       min-height: 198px;
       width: calc(33% - 17px);
     }
@@ -114,20 +114,20 @@
     p {
       font-family: Arial, Helvetica, sans-serif;
     }
-    section.container1, section.container2, section.container3{
+    div.container1, div.container2, div.container3{
       background-color: lightblue;
       border: 1px solid black;
     }
-    section.container1{
+    div.container1{
       margin-right: 30px;
       min-height: 150px;
       width: calc(50% - 15px);
     }
-    section.container2{
+    div.container2{
       min-height: 150px;
       width: calc(50% - 15px);
     }
-    section.container3 {
+    div.container3 {
       margin-top: 30px;
     }
     .p1 {
@@ -193,7 +193,7 @@
     p {
       font-family: Arial, Helvetica, sans-serif;
     }
-    section.container1, section.container2, section.container3 {
+    div.container1, div.container2, div.container3 {
       background-color: lightblue;
       border: 1px solid black;
       margin: 0 20px 20px 20px;

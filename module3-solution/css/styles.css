@@ -72,10 +72,10 @@ button.navbar-toggle {
 @media (min-width: 768px) and (max-width: 991px) {
       /* Header */
     .navbar-header a {
-        margin-left: 40px;
+        /* margin-left: 40px; */
     }
     .row {
-        margin: 60px;
+        /* margin: 60px; */
     }
     /* End Header */
 }
